@@ -1,0 +1,98 @@
+[
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos",
+    "author": "CORMEN, T. H. et al.",
+    "publisher": "Campus",
+    "year": 2012
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Algoritmos: Lógica para desenvolvimento de programação de computadores",
+    "author": "MANZANO, J. A. N. G., OLIVEIRA, J. F.",
+    "publisher": "Érica",
+    "year": 2009
+  },
+  {
+    "semester": 1,
+    "course": "Algoritmos e Lógica de Programação",
+    "title": "Como programar",
+    "author": "DEITEL, H., DEITEL, P. C.",
+    "publisher": "Pearson",
+    "year": 2011
+  },
+  {
+    "semester": 2,
+    "course": "Redes de Computadores",
+    "title": "Redes de Computadores e a Internet: Uma Abordagem Top-Down",
+    "author": "KUROSE, J. F., ROSS, K. W.",
+    "publisher": "Pearson",
+    "year": 2013
+  },
+  {
+    "semester": 2,
+    "course": "Redes de Computadores",
+    "title": "Redes de Computadores",
+    "author": "TANENBAUM, A. S., WETHERALL, D.",
+    "publisher": "Pearson",
+    "year": 2011
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web Multiplataforma",
+    "title": "React: Up & Running",
+    "author": "PORCELLO, E., BANKS, A.",
+    "publisher": "O'Reilly Media",
+    "year": 2017
+  },
+  {
+    "semester": 3,
+    "course": "Desenvolvimento Web Multiplataforma",
+    "title": "Learning React: Modern Patterns for Developing React Apps",
+    "author": "BANKS, A., PORCELLO, E.",
+    "publisher": "O'Reilly Media",
+    "year": 2020
+  },
+  {
+    "semester": 4,
+    "course": "DevOps e CI/CD",
+    "title": "Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável",
+    "author": "HUMBLE, J., FARLEY, D.",
+    "publisher": "Bookman",
+    "year": 2014
+  },
+  {
+    "semester": 4,
+    "course": "DevOps e CI/CD",
+    "title": "Manual de DevOps",
+    "author": "KIM, G. et al.",
+    "publisher": "Alta Books",
+    "year": 2018
+  },
+  {
+    "semester": 4,
+    "course": "Gestão da Configuração e Mudanças",
+    "title": "Software Configuration Management Patterns",
+    "author": "BERCZUK, S. P., APPLETON, B.",
+    "publisher": "Addison-Wesley",
+    "year": 2003
+  },
+  {
+    "semester": 5,
+    "course": "Gestão Financeira e Contábil em TI",
+    "title": "Contabilidade Introdutória",
+    "author": "IUDÍCIBUS, S. et al.",
+    "publisher": "Atlas",
+    "year": 2019
+  },
+  {
+    "semester": 5,
+    "course": "Gestão Financeira e Contábil em TI",
+    "title": "Administração Financeira: Princípios, Fundamentos e Práticas",
+    "author": "LEMES JUNIOR, A. B. et al.",
+    "publisher": "Elsevier",
+    "year": 2010
+  }
+]
